@@ -6,7 +6,7 @@
 /* banner style */
 header {
   background-image: url("../images/banner/banner3.png");
-  background-color: blue;
+  background-color: rgb(68, 68, 214);
   width: 100%;
   height: 1000px;
   background-size: cover;
@@ -112,3 +112,40 @@ h2 {
 .linear {
   color: #0138eb;
 }
+/* video section */
+
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #0138eb;
+}
+
+/* footer */
+footer{
+    display: flex;
+   background-color: black;
+   width: 100%;
+   color: white;
+   height: 300px;
+
+ border: 1px solid f;
+}
+.future{
+   margin: 0 500px;
+   padding: 50px;
+}
+.subscribe{
+   margin: 100px 230px;
+
+}
+.email{
+    padding: 10px;
+    background-color: black;
+    border: 1px solid white;
+}
+.future a{
+    text-decoration: none;
+}
+
